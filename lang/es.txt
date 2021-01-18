@@ -1,0 +1,42 @@
+home=>Inicio
+
+about=>Sobre mi
+about-title=>Desarrollador Web Full-Stack.
+about-presentation=>¡Hola! soy Rodrigo, desarrollador web, amante de los animales y la fauna silvestre. En mis tiempos libres me gusta hacer ejercicios, caminatas y disfrutar del tiempo con mi familia y amigos.
+about-birthdate=>Fecha de nacimiento:
+about-web-site=>Sitio Web:
+about-mail=>Correo:
+about-telephone=>Teléfono:
+about-history=>Comencé en el mundo del desarrollo web en el año 2015, con los conocimientos básicos que adquirí en la universidad tecnológica nacional(UTN). Desde ese momento, me he dedicado en mis tiempos libres a perfeccionar el diseño en los sitios web que me solicitaban y buscar librerias que simplifiquen el desarrollo.
+
+skills=>Habilidades
+skills-database=>Base de datos
+skills-design=>Diseño
+
+resume=>Currículum
+resume-sumary=>Resumen
+resume-sumary-text=>Diseñador, encantado con la programación y desarrollo de sitios web. Motivado a seguir en el mundo de la tecnologia me impulse a adquirir nuevos conocimientos hasta el día de la fecha continuo aprendiendo librerias y Stacks que me sirvan para poder terminar un producto pulido.
+resume-education=>Educación
+resume-education-utn=>Tecnicatura superior en Programación (UTN)
+resume-education-utn-text=>A lo largo del cursado en la tecnicatura adquiri varios conceptos y metodologias en las distintas materias que se dictan, para resolver problemas de forma eficiente.
+resume-education-henry=>Desarrollador web full-stack (HENRY)
+resume-education-henry-description=>Henry, academia virtual de desarrollo web
+resume-education-henry-text=>En henry encontre un lugar en el que me pusieron a prueba con conceptos previamente adquiridos de programación pero no tan refinados en el area del desarrollo web. Aprendi de una forma que no habia utilizado anteriormente, el trabajo en equipo.
+resume-experience=>Experiencia Professional
+resume-experience-freelancer=>2015 - Presente
+resume-experience-freelancer-text-1=>Desarrolo Web
+resume-experience-freelancer-text-2=>He realizado sitios webs para distintas empresas y rubros de mi región, los cuales me ha llevado a investigar por cuenta propia la posible competencia, para saber que necesita cada cliente y poder posicionarlos en los principales navegadores de busqueda. A los cuales les brindo soporte en base a cambios respecto de diseño, manejo de correos empresariales, tecnicas de mailing para obtener posibles clientes, etc.
+resume-experience-itap=>Diseño grafíco (ITAP-Impresiones)
+resume-experience-itap-text-1=>En Itap mi tarea fue diseñar logos para distintas marcas regionales, folletos, tarjetas, etc.
+resume-experience-itap-text-2=>Este trabajo fue la puerta al maravilloso mundo de la programación, en el cual aprendi distintas herramientas para el diseño de marcas y campañas publicitarias.
+
+portfolio=>Portafolio
+portfolio-intro=>Este portafolio está compuesto por mis proyectos personales, los cuales dividi en páginas que he desarrollado para clientes y los demás proyectos con fines didacticos para mi constante aprendisaje.
+
+contact=>Contactame
+contact-text-intro=>Contacteme si desea platicar de programación, desarrollo web, diseño, o si quiere ofrecerme trabajo. Si me envia un correo electronico le responderé en un lapso de 12 horas, o si se comunica por teléfono atenderé a la brevedad.
+contact-location=>Ubicación:
+contact-email=>Correo:
+contact-phone=>Teléfono:
+
+credits=>Diseñado con Bootstrap, CSS & JS

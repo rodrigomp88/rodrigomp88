@@ -1,0 +1,42 @@
+home=>Home
+
+about=>About me
+about-title=>Full-Stack Web Developer.
+about-presentation=>Hi there! I am Rodrigo web developer. Lover of animals and wildlife. In my free time I like to exercise. I go for walks and enjoy time with my family and friends.
+about-birthdate=>Birthdate:
+about-web-site=>Web Site:
+about-mail=>Email:
+about-telephone=>Phone:
+about-history=>I started in the world of web development in 2015. With the basic knowledge that I acquired at the national technological university (UTN). Since that moment. I have dedicated myself in my free time to perfecting the design of the websites that requested me and looking for libraries that simplify development.
+
+skills=>Skills
+skills-database=>Data Base
+skills-design=>Design
+
+resume=>Resume
+resume-sumary=>Sumary
+resume-sumary-text=>Designer / delighted with programming and website development. Motivated to continue in the world of technology, I was driven to acquire new knowledge to this day, I continue to learn libraries and Stacks that help me finish a polished product.
+resume-education=>Education
+resume-education-utn=>HIGHER TECHNIQUES IN PROGRAMMING (UTN)
+resume-education-utn-text=>Throughout the course in the technical degree, I acquired various concepts and methodologies in the different subjects that are taught, to solve problems efficiently.
+resume-education-henry=>FULL-STACK WEB DEVELOPER (HENRY)
+resume-education-henry-description=>Henry, virtual web development academy
+resume-education-henry-text=>In henry I found a place where they put me to the test with previously acquired programming concepts but not so refined in the area of ​​web development. I learned in a way that I had not used before, teamwork.
+resume-experience=>Professional Experience
+resume-experience-freelancer=>2015 - Present
+resume-experience-freelancer-text-1=>Web development
+resume-experience-freelancer-text-2=>I have made websites for different companies and sectors in my region, which has led me to investigate possible competition on my own, to know what each client needs and to be able to position them in the main search browsers. To which I provide support based on changes regarding design, management of business emails, mailing techniques to obtain potential clients, etc.
+resume-experience-itap=>Graphic design (ITAP-Impresiones)
+resume-experience-itap-text-1=>At Itap my task was to design logos for different regional brands, brochures, cards, etc.
+resume-experience-itap-text-2=>This job was the door to the wonderful world of programming, in which I learned different tools for the design of brands and advertising campaigns.
+
+portfolio=>Portfolio
+portfolio-intro=>This portfolio is made up of my personal projects, which I divided into pages that I have developed for clients and the other projects with didactic purposes for my constant learning.
+
+contact=>Contact me
+contact-text-intro=>Contact me if you want to talk about programming, web development, design, or if you want to offer me a job. If you send me an email, I will respond to you within 12 hours, or if you communicate by phone, I will respond as soon as possible.
+contact-location=>Location:
+contact-email=>Email:
+contact-phone=>Phone:
+
+credits=>Designed with Bootstrap, CSS & JS
