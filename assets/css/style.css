@@ -419,6 +419,18 @@ section {
   background: none;
 }
 
+.skills p {
+  text-align: center;
+}
+
+.skills img {
+  width: 80px;
+  margin: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .skills .progress .skill {
   padding: 10px 0;
   margin: 0 0 6px 0;
