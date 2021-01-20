@@ -14,7 +14,7 @@
 
     <!-- Google Fonts -->
     <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Share+Tech+Mono&display=swap|Luckiest+Guy&display=swap"
       rel="stylesheet"
     />
 
@@ -45,6 +45,8 @@
   </head>
 
   <body>
+
+    <div id="loader"></div>
     <!-- ======= Mobile nav toggle button ======= -->
     <button type="button" class="mobile-nav-toggle d-xl-none">
       <i class="icofont-navigation-menu"></i>
@@ -177,7 +179,7 @@
                     </li>
                     <li>
                       <i class="icofont-rounded-right"></i>
-                      <strong data-lang="about-web-site">Sitio Web:</strong> www.example.com
+                      <strong data-lang="about-web-site">Sitio Web:</strong> https://rodrigomp88.github.io/rodrigomp88/
                     </li>
                     <li>
                       <i class="icofont-rounded-right"></i>
@@ -757,6 +759,34 @@
     <a href="#" class="back-to-top"
       ><i class="icofont-simple-up bx-tada"></i
     ></a>
+
+   
+    <script type="text/javascript">
+        
+        var loader;
+        function loadNow(opacity) {
+            if(opacity <= 0) {
+                displayContent();
+            }
+            else {
+                loader.style.opacity = opacity;
+                window.setTimeout(function() {
+                    loadNow(opacity - 0.05)
+                }, 100);
+            }
+        }
+        
+        function displayContent() {
+            loader.style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+        }
+        
+        document.addEventListener("DOMContentLoaded", function() {
+            loader = document.getElementById('loader');
+            loadNow(5);
+        });
+        
+    </script>
 
     <!-- Vendor JS Files -->
     <script src="assets/vendor/jquery/jquery.min.js"></script>
