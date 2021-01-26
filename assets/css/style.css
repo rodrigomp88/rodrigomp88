@@ -8,6 +8,11 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+#wrapper {
+  width: 100vw;
+  height: 100vh;
+}
+
 #loader {
   position: fixed;
   width: 100%;
@@ -84,7 +89,7 @@ p {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #07090c;
   overflow-y: auto;
 }
 
@@ -311,7 +316,8 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #1b1b1b;
+  color: #fff;
 }
 
 .section-title {
@@ -324,7 +330,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #728b00;
+  color: #fff;
 }
 
 .section-title h2::after {
@@ -345,10 +351,16 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+
+.about {
+  background: #07090c;
+  color: #fff;
+}
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728b00;
+  color: #fff;
 }
 
 .about .content ul {
@@ -421,20 +433,13 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
-.skills .progress {
-  height: 50px;
-  display: block;
-  background: none;
-}
-
 .skills p {
   text-align: center;
-  border-top: 3px solid #1fb683;
-  border-left: 3px solid #1fb683;
-  border-right: 3px solid #1fb683;
-  font-family: 'Share Tech Mono', monospace;
+  border-top: 3px solid #6a706e;
+  border-left: 3px solid #6a706e;
+  border-right: 3px solid #6a706e;
 
 }
 
@@ -446,47 +451,29 @@ section {
   margin-right: auto;
 }
 
-.skills .progress .skill {
-  padding: 10px 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #050d18;
-}
-
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: #dce8f8;
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: .9s;
-  background-color: #1fb683;
-}
 
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.resume {
+  background-color: #07090c;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: #fff;
+}
+
+.resume p {
+  color: #fff;
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #6a706e;
   position: relative;
 }
 
@@ -496,7 +483,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #fff;
   margin-bottom: 10px;
 }
 
@@ -511,6 +498,7 @@ section {
 
 .resume .resume-item ul {
   padding-left: 20px;
+  color: #fff;
 }
 
 .resume .resume-item ul li {
@@ -529,8 +517,8 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
-  border: 2px solid #1f5297;
+  background: #1b1b1b;
+  border: 2px solid #18d26e;
 }
 
 /*--------------------------------------------------------------
@@ -545,7 +533,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: #000;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -558,7 +546,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #272829;
+  color: #fff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -785,11 +773,13 @@ section {
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
+  background-color: #07090c;
+  color: #fff;
 }
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: #07090c;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -813,14 +803,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #050d18;
+  color: #fff;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #728b00;
+  color: #fff;
 }
 
 .contact .info .email p {
@@ -859,7 +849,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: #07090c;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -1106,7 +1096,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #07090c;
 }
 
 #footer .copyright {
