@@ -1,4 +1,4 @@
-### Hi there 👋 visit <a href="https://rodrigomp88.github.io/rodrigomp88/"> My web site <a>
+### Hi there 👋
 
 <!--
 **rodrigomp88/rodrigomp88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
