@@ -8,12 +8,12 @@ Soy Rodrigo, un desarrollador web de Argentina con experiencia en front-end y ba
 - HTML
 - CSS
 - React
+- Next.js
+- Tailwind CSS
 - Firebase
 - MongoDB
-- Tailwind CSS
 - Styled Components
 - MySQL
-- Next.js
 
 Estoy actualizado con las últimas herramientas y tendencias en desarrollo web, y puedo utilizar diversas tecnologías en diferentes contextos, ya sea en el front-end, back-end o en la nube, para desarrollar proyectos web eficientes y efectivos.
 
