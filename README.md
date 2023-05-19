@@ -1,6 +1,6 @@
 # Hola 👋 
 
-Soy Rodrigo, un desarrollador web de Argentina con experiencia en front-end y back-end. Mi enfoque es crear experiencias de usuario intuitivas y accesibles. Siempre estoy en constante aprendizaje, adquiriendo nuevas herramientas y conocimientos para mejorar mis habilidades y ofrecer soluciones web de alta calidad. Mi objetivo es crecer profesionalmente y satisfacer las necesidades de los usuarios.
+Soy Rodrigo, un desarrollador web de Argentina con experiencia en front-end y back-end. Mi enfoque es crear experiencias de usuario intuitivas y accesibles. Siempre estoy en constante aprendizaje, adquiriendo nuevas herramientas y conocimientos para mejorar mis habilidades y ofrecer soluciones web de alta calidad.
 
 ## Tecnologías en las que tengo experiencia
 
