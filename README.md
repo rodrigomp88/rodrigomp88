@@ -17,4 +17,4 @@ Soy Rodrigo, un desarrollador web de Argentina con experiencia en front-end y ba
 
 Estoy actualizado con las últimas herramientas y tendencias en desarrollo web, y puedo utilizar diversas tecnologías en diferentes contextos, ya sea en el front-end, back-end o en la nube, para desarrollar proyectos web eficientes y efectivos.
 
-Visita mi [sitio web](https://pinea-rodrigo.netlify.app/) para ver mi portfolio personal y los proyectos realizados.
+Visita mi [sitio web](https://rodrigopinea.netlify.app) para ver mi portfolio personal y los proyectos realizados.
