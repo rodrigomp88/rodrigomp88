@@ -1,8 +1,8 @@
-# Hola 👋 
+# Hi there 👋 
 
-Soy Rodrigo, un desarrollador web de Argentina con experiencia en front-end y back-end. Mi enfoque es crear experiencias de usuario intuitivas y accesibles. Siempre estoy en constante aprendizaje, adquiriendo nuevas herramientas y conocimientos para mejorar mis habilidades y ofrecer soluciones web de alta calidad.
+Hello, my name is Rodrigo Pinea. I am a UI/UX designer from Argentina, Mendoza. Passionate about new web and mobile technologies, I learned the old methods of functional software development. I use various programming and layout languages, cloud storage services, tools to speed up development, task management systems and I know something about software performance quality testing.
 
-## Tecnologías en las que tengo experiencia
+## Stack
 
 - JavaScript
 - HTML
@@ -15,6 +15,6 @@ Soy Rodrigo, un desarrollador web de Argentina con experiencia en front-end y ba
 - Styled Components
 - MySQL
 
-Estoy actualizado con las últimas herramientas y tendencias en desarrollo web, y puedo utilizar diversas tecnologías en diferentes contextos, ya sea en el front-end, back-end o en la nube, para desarrollar proyectos web eficientes y efectivos.
 
-Visita mi [sitio web](https://rodrigopinea.netlify.app) para ver mi portfolio personal y los proyectos realizados.
+Visit my website [web site](https://rodrigopinea.netlify.app)  to see my personal projects and completed work that I follow up and update.
+
