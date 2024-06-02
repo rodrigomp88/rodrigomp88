@@ -16,5 +16,5 @@ Hello, my name is Rodrigo Pinea. I am a UI/UX designer from Argentina, Mendoza. 
 - MySQL
 
 
-Visit my website [web site](https://rodrigopinea.netlify.app)  to see my personal projects and completed work that I follow up and update.
+Visit my website [web site](https://rodrigopinea.netlify.app)
 
